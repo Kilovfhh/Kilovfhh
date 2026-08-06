@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-17-year-old Python developer | Learning C++ (Not at the moment) | Aspiring Cybersecurity Officer 🇺🇸 Planning to join the U.S. Army or the United States Air Force at 18.
+17-year-old Python developer | Learning C++ (Not at the moment) | Aspiring Cybersecurity Officer 🇺🇸 | Planning to join the U.S. Army or the United States Air Force at 18.
 
 🔭 &nbsp;I'm currently working on **NexAuth - DDOS TOOL (MADE FOR STRESS TESTING PERSONAL STUFF)**  
 🌱 &nbsp;I'm currently learning **Python, C++, HTML, CSS, and json...**  
