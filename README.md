@@ -18,7 +18,7 @@
 🤔 &nbsp;I'm looking for help with **Creating a ESP-32R script using python**  
 💬 &nbsp;Ask me about **Python related stuff**  
 😄 &nbsp;Pronouns: **He/Him**  
-⚡ &nbsp;Fun fact: **I been trying to learn debugging but FUCK is that shit hard**
+⚡ &nbsp;Fun fact: **I been trying to learn how to crack programs**
 
 ### 🛠️ Tech Stack
 
