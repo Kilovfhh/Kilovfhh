@@ -1,22 +1,27 @@
 <p align="center">
   <a href="https://github.com/Kilovfhh">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Nexa" alt="Hello! I&#39;m Nexa" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Nexa" alt="Hello! I'm Nexa" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=360&height=44&lines=I%20love%20hacking!;ETHICAL%20OK..." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=500&height=44&lines=Game+Dev+%7C+FiveM+Developer;Learning+Unreal+Engine;Studying+Cybersecurity" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-Just a normal dev...
+- 🎮 Learning **Unreal Engine** for game development
+- 🖥️ Build and develop **FiveM** servers (scripts, resources, custom features)
+- 🔐 Studying **cybersecurity** fundamentals, with a long-term goal of joining the army
+- 🌱 Always picking up new tools and expanding my dev stack
 
 ### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
@@ -44,3 +49,4 @@ Just a normal dev...
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Kilovfhh">Kilovfhh</a></i></p>
+  
