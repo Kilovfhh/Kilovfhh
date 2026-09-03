@@ -13,7 +13,7 @@
 
 <br>
 
-<i class="fi fi-br-exclamation"></i>## ⟡ About Me
+## ⟡ About Me
 
 <table>
 <tr>
