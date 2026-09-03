@@ -25,7 +25,7 @@ A dedicated developer with a passion for building immersive digital experiences 
 name: "Nexa"
 focus: ["Unreal Engine", "FiveM Development", "Cybersecurity"]
 currently_learning: "Unreal Engine 5 & C++"
-goal_2026: "Join the Army"
+goal_2027: "Join the Army"
 fun_fact: "I debug faster than I sleep"
 ```
 
