@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4d2e,100:2ea043&height=220&section=header&text=Nexa&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20FiveM%20Architect%20%7C%20Aspiring%20Cybersecurity%20Specialist&descAlignY=55&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nexa%20(aka%20itzoxy)&animation=fadeIn&desc=Starting%20Game%20Developer%20|%20Aspiring%20CyberSecurity%20Specialist%20|%20FiveM%20Architect&fontSize=50" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&pause=1200&color=2EA043&center=true&vCenter=true&width=700&height=45&lines=Crafting+immersive+worlds+in+Unreal+Engine;Building+robust+FiveM+server+ecosystems;Studying+the+art+of+Cybersecurity;Preparing+for+a+future+in+service" alt="Typing headlines" />
 
