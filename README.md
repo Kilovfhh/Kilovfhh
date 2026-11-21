@@ -19,7 +19,7 @@
 <tr>
 <td width="60%" valign="top">
 
-A dedicated developer with a passion for building immersive digital experiences and a long-term ambition of serving in the army. My work spans game development, custom server architecture, and the foundations of cybersecurity.
+Love coding ngl
 
 ```yaml
 name: "Nexa"
@@ -29,8 +29,6 @@ goal_2027: "Join the Army"
 fun_fact: "I debug faster than I sleep"
 ```
 
-- 🎮 &nbsp;Learning **Unreal Engine** to craft compelling game worlds
-- 🖥️ &nbsp;Designing and developing **FiveM** servers — scripts, resources, and custom systems
 - 🔐 &nbsp;Studying **cybersecurity** fundamentals, with sights set on a future in the army
 - 🌱 &nbsp;Committed to continuous growth, always expanding my development toolkit
 
