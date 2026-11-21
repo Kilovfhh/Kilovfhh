@@ -23,10 +23,10 @@ Love coding ngl
 
 ```yaml
 name: "Nexa"
-focus: ["Unreal Engine", "FiveM Development", "Cybersecurity"]
-currently_learning: "Unreal Engine 5 & C++"
-goal_2027: "Join the Army"
-fun_fact: "I debug faster than I sleep"
+focus: ["Cybersecurity", "Love coding n C# and C++ ngl", "Tryna join the army cybersecurity position ngl"]
+currently_learning: "C++ and Reverse Engineering"
+goal_2027: "Have a better understanding in Cybersecurity"
+fun_fact: "Ion sleep at all when i code (THIS IS NOT OKAY.)"
 ```
 
 - 🔐 &nbsp;Studying **cybersecurity** fundamentals, with sights set on a future in the army
